@@ -53,6 +53,6 @@
 
 
 -----
-Credits: [Fethi Tekyaygil](https://github.com/icufaa)
+Credits: [Cufachan](https://github.com/icufaa)
 
 Last Edited on: 06/10/2024
