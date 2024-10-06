@@ -37,7 +37,7 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/icufaa/PLANTILLAS.md/blob/main/github-contribution-grid-snake.svg)
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
