@@ -28,6 +28,12 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <br>
+  <kbd>
+    <kbd>Front-end</kbd>kbd>
+    <br>
+    <br>
+    <img width ="30px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
+  </kbd>
   <br>
   <kbd>
     <kbd>Tools</kbd>
