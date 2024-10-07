@@ -29,7 +29,7 @@
   </kbd>
   <br>
   <kbd>
-    <kbd>Backend</kbd>
+    <kbd>Back-end</kbd>
     <br>
     <br>
     <img width ="30px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
