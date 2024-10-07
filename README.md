@@ -30,8 +30,6 @@
   <br>
   <kbd>
     <kbd>Backend</kbd>
-    <br>
-    <br>
     <img width ="30px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
   </kbd>
   <br>
