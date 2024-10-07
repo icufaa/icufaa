@@ -39,6 +39,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" />
   </kbd>
 </p>
 
