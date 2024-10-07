@@ -11,6 +11,7 @@
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
  -->
 
+<h2 align="center"><u>Technologies & Tools</u></h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
