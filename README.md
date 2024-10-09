@@ -60,7 +60,6 @@
 
 
 -----
-> [!NOTE]
+> [!IMPORTANT]
 Credits: [Cufachan](https://github.com/icufaa)
-
-Last Edited on: 06/10/2024
+Last Edited on: 09/10/2024
