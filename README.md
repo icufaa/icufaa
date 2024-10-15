@@ -1,15 +1,14 @@
-<a href="https://www.fethitekyaygil.com">
+<a href="https://github.com/icufaa">
  </a>
+ 
+<h2 align="center"><u>About Me!</u></h2>
 
-<!-- 
-**About Me!**
+👨🏽‍💻 Hi, I'm Vinales Facundo, an Information Systems Engineering student with hands-on experience in small projects, looking forward to gaining professional experience in the field.  
+🌱 Currently exploring areas like back-end development and Data Science.  
+🤔 I have a strong interest in systems design, problem-solving, and software architecture.  
+💬 Feel free to reach out to me at cufaarg@gmail.com—I'm always open to discussing tech, projects, or new opportunities!
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
- -->
+ 
 
 <h2 align="center"><u>Technologies & Tools</u></h2>
 <p style="display: inline-block;" align="center">
