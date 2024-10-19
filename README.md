@@ -6,7 +6,7 @@
 👨🏽‍💻 Hi, I'm Vinales Facundo, an Information Systems Engineering student with hands-on experience in small projects, looking forward to gaining professional experience in the field.  
 🌱 Currently exploring areas like back-end development.  
 🤔 I have a strong interest in systems design, problem-solving, and software architecture.  
-💬 Feel free to reach out to me at cufaarg@gmail.com—I'm always open to discussing tech, projects, or new opportunities!
+
 
  
 
